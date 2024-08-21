@@ -19,4 +19,5 @@ El repositorio se compone de varias carpetas, cada una destinada a almacenar dif
 - Documents: Almacena los reportes y presentaciones que documentan los avances del reto a lo largo del periodo de estudio.
 - References: Incluye toda la documentación utilizada como referencia.
 - Setup: Archivo de texto con información sobre el montaje experimental que se utilizará para la obtención de los modelos teóricos y experimentales.
-- Roadmap: Copia del archivo "PlanRetosFísica24B" proporcionado por el docente responsable de supervisar el progreso del reto científico.
+- Roadmap: Contiene una copia del archivo "PlanRetosFísica24B", proporcionado por el docente encargado de supervisar el progreso del reto científico. En este 
+  documento se detalla la dinámica del curso, los métodos de calificación y las pautas temporales para el avance del proyecto.
