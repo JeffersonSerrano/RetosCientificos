@@ -11,4 +11,4 @@ Se intuye que la precisión del montaje depende de los siguientes factores:
 -Superficie interior del vaso (lisa o rugosa)
 -Dimensiones fisicas de la pelota
 -Masa de la pelota
-
+-
