@@ -1,4 +1,4 @@
-##MONTAJE
+## MONTAJE
 
 El montaje consiste en un vaso plastico de 12 Oz lleno de agua y una pelota de ping-pong.
 Se introduce la pelota en el vaso y se deja caer desde una altura X.
