@@ -1,3 +1,3 @@
 # Referencias
 
-1. YouTube. (2024, Agosto 21). *Video Title* [Video]. YouTube. https://youtu.be/mPOcFSHyd9o?t=478
+1. YouTube. (2024, Agosto 21). *TOP 41 trucos y experimentos científicos asombrosos.* [Video]. YouTube. https://www.youtube.com/watch?v=mPOcFSHyd9o&t=478s
