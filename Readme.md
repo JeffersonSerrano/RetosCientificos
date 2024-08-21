@@ -10,3 +10,5 @@ El reto seleccionado es:
 
 ¿A qué altura puede saltar una pelota de ping-pong utilizando el montaje del vídeo? 
 ¿Cuál es la fracción máxima de la energía cinética total que puede transferirse a la pelota?
+
+Pruba de si se puede editar simultaneamente
