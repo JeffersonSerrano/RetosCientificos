@@ -8,3 +8,4 @@
 6. Am. J. Phys., Vol. 87, No. 4, April 2019. https://inaesp.org/PublicJG/poeschel_etal_ping-pong_ball_cannon_AJP2019.pdf
 7. Barth, T. J., & Stein, K. R. (2023). High-Speed Optical Diagnostics of a Supersonic Ping-Pong Cannon. Journal of visualized experiments : JoVE, (193), 10.3791/64996. https://doi.org/10.3791/64996
 8. Barth, T.J., Stein, K.R. High-Speed Optical Diagnostics of a Supersonic Ping-Pong Cannon. J. Vis. Exp. (193). https://app-jove-com.bibliotecavirtual.uis.edu.co/pdf/64996/highspeed-optical-diagnostics-of-a-supersonic-pingpong-cannon
+9. Kids Fun Science, 28 sept 2017. Surface Tension and a Ping Pong Ball Experiment. YouTube. https://www.youtube.com/watch?v=XY2e2XHBiz4
