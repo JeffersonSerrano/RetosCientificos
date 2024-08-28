@@ -5,6 +5,5 @@
 3. YouTube. (2020, Septiembre 16). *Ping Pong Blast off (Cumulative Cannon) explained in Full detail.* YouTube. (https://www.youtube.com/watch?v=RugZ2LmmRQI).
 4. A. Barlet and N. Malhomme. Suction-ejection of a ping-pong ball in a falling water-filled cup, Emergent Scientist 6, 2 (2022). (https://emergent-scientist.edp-open.org/articles/emsci/full_html/2022/01/emsci210004/emsci210004.html).
 5. Bruno Andreotti, Wladimir Toutain, Camille Noûs, Sofia El Rhandour-Essmaili, Guillaume Pérignon-Hubert, et al. El cañón de agua con pelotas de ping-pong. Informes. Mecánica , en prensa. (https://inria.hal.science/hal-02956000/).
-6. Barth, T. J., & Stein, K. R. (2023). High-Speed Optical Diagnostics of a Supersonic Ping-Pong Cannon. Journal of visualized experiments : JoVE, (193), 10.3791/64996. (https://doi.org/10.3791/64996).
-7. Barth, T.J., Stein, K.R. High-Speed Optical Diagnostics of a Supersonic Ping-Pong Cannon. J. Vis. Exp. (193). (https://app-jove-com.bibliotecavirtual.uis.edu.co/pdf/64996/highspeed-optical-diagnostics-of-a-supersonic-pingpong-cannon).
-8. Kids Fun Science, 28 sept 2017. Surface Tension and a Ping Pong Ball Experiment. YouTube. (https://www.youtube.com/watch?v=XY2e2XHBiz4).
+6. Barth, T.J., Stein, K.R. High-Speed Optical Diagnostics of a Supersonic Ping-Pong Cannon. J. Vis. Exp. (193). (https://app-jove-com.bibliotecavirtual.uis.edu.co/pdf/64996/highspeed-optical-diagnostics-of-a-supersonic-pingpong-cannon).
+7. Kids Fun Science, 28 sept 2017. Surface Tension and a Ping Pong Ball Experiment. YouTube. (https://www.youtube.com/watch?v=XY2e2XHBiz4).
