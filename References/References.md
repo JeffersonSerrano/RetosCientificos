@@ -5,3 +5,4 @@
 3. YouTube. (2020, Septiembre 16). *Ping Pong Blast off (Cumulative Cannon) explained in Full detail.* YouTube. https://www.youtube.com/watch?v=RugZ2LmmRQI
 4. A. Barlet and N. Malhomme. Suction-ejection of a ping-pong ball in a falling water-filled cup, Emergent Scientist 6, 2 (2022) recuperado de https://emergent-scientist.edp-open.org/articles/emsci/full_html/2022/01/emsci210004/emsci210004.html
 5. Bruno Andreotti, Wladimir Toutain, Camille Noûs, Sofia El Rhandour-Essmaili, Guillaume Pérignon-Hubert, et al. El cañón de agua con pelotas de ping-pong. Informes. Mecánica , en prensa. recuperado de https://inria.hal.science/hal-02956000/
+6. Am. J. Phys., Vol. 87, No. 4, April 2019 recuperado de https://inaesp.org/PublicJG/poeschel_etal_ping-pong_ball_cannon_AJP2019.pdf
